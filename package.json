@@ -1,0 +1,12 @@
+{
+  "name": "nagi-popup",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NAGI pop-up store design study with A4 print layout",
+  "scripts": {
+    "dev": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
